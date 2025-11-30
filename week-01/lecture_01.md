@@ -1,6 +1,6 @@
 # **Lecture 01 – Introduction to Python Programming**
 
-1. What You Will Learn in This Lecture
+1. **What You Will Learn in This Lecture**
 
 In this lecture, you will learn:
 
@@ -174,8 +174,10 @@ VS Code is ideal for large AI projects.
 
 Python uses indentation instead of braces.
 
+```python
 if x > 10:
     print("x is greater")
+```
 
 ## 5.2 Case Sensitivity
 
@@ -185,11 +187,15 @@ Age and age are different identifiers.
 # This is a comment
 
 ## 5.4 Variables
+```pyhton
 name = "Saif"
 age = 21
+```
 
 # 6. Writing Your First Python Program
+```python
 print("Hello, World!")
+```
 
 #  print() function:
 The print() function displays output on the screen.
@@ -221,9 +227,12 @@ Arithmetic
 
 Operations
 
+```pyhton
 a = 5 + 3
+print(a)
 
 b = 10 - 2
+print(b)
 
 c = 4 * 3
 
@@ -232,6 +241,7 @@ d = 20 / 4
 e = 10 % 3      # remainder
 
 f = 2 ** 3      # exponent
+```
 
 
 ## 7.2 Float (float) 💧
