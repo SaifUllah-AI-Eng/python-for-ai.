@@ -19,9 +19,13 @@ Whether you are a complete beginner or someone looking to strengthen your Python
 ## 📘 Why This Course?
 
 ✅ Build strong foundations in Python
+
 ✅ Learn essential libraries for data science & AI
+
 ✅ Practice by solving exercises and building small projects
+
 ✅ Develop proper coding discipline and project structure
+
 ✅ Prepare yourself for real-world Python applications
 
 ---
